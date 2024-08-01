@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Book1",
+      "author": "Author1",
+      "publishYear": 2001
+    },
+    {
+      "id": 2,
+      "title": "Book2",
+      "author": "Author2",
+      "publishYear": 2002
+    }
+  ]
+}
